@@ -1,5 +1,5 @@
 body {
-    font-family: Verdana;
+    font-family: Garamond (serif);
     background-color: lightblue;
     margin: 0px;
   }
@@ -24,7 +24,7 @@ main {
   
 .button {
     display: block;
-    color: #ffffff;
+    color: black;
     background-color: #214f83;
     padding: 2vh;
     border-radius: 8px;
