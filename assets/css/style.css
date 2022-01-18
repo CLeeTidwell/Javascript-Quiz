@@ -90,9 +90,11 @@ main {
 @media (hover) {
 a:hover {
     color: #cbd3e1;
+    cursor: pointer;
     }
   
 button:hover {
+    cursor: pointer;
     background-color: #214c8380;
     }
   }
