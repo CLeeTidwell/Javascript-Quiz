@@ -24,7 +24,7 @@ This project is created with:
 * Javascript
 
 ## Setup
-To run this project, please visit the url 
+To run this project, please visit the url https://cleetidwell.github.io/Javascript-Quiz/
 
 ## Sample images
 ![Screenshot of Quiz Title](./assets/images/quiztitle.jpg)
